@@ -1,4 +1,4 @@
-# cMLr3asK
+# People Counter Project
 
 Quick start:
 
